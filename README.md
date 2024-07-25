@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me anushka10e4781@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: i like jaljeera
 
 <!---
